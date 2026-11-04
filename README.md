@@ -108,6 +108,7 @@ Studied mathematical and computational approaches to physics, including numerica
 
 My academic projects have involved applying programming and computational techniques to scientific problems, particularly in computational knot theory and machine learning.
 
+Completed the programme in June 2026; formal award pending.
 ---
 
 ## Contact
